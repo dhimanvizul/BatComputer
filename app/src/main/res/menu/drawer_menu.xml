@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/mBatComp"
+            android:title="@string/bat_computer" />
+        <item
+            android:id="@+id/mBatMobile"
+            android:title="@string/bat_mobile" />
+        <item
+            android:id="@+id/mBatCycle"
+            android:title="@string/batcycle" />
+        <item
+            android:id="@+id/mBelt"
+            android:title="@string/utilitybelt" />
+        <item
+            android:id="@+id/mBatSuit"
+            android:title="@string/batsuit" />
+        <item
+            android:id="@+id/mBatarang"
+            android:title="@string/batrang" />
+        <item
+            android:id="@+id/mGrapple"
+            android:title="@string/grapple" />
+        <item
+            android:id="@+id/mBatCape"
+            android:title="@string/cape" />
+        <item
+            android:id="@+id/mKSpear"
+            android:title="@string/Kspear" />
+    </group>
+
+</menu>

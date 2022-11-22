@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BatComputer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wayne_industries">Wayne Industries</string>
+    <string name="about">Hello there! This a simple project \n based on a comic character THE BATMAN. Especially his computer.\n
+    Hope you will enjoy!</string>
+    <string name="preference_passcode">Preference Passcode</string>
+    <string name="bat_computer">Bat-Computer</string>
+    <string name="bat_mobile">Bat-Mobile</string>
+    <string name="batcycle">BatCycle</string>
+    <string name="bat_gadgets">BAT GADGETS</string>
+    <string name="criminals">Criminals</string>
+    <string name="batbase">BatBase</string>
+    <string name="welcome_back_bat">Welcome back, BAT</string>
+    <string name="x">x</string>
+    <string name="bat_database">Bat Memory</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_crime">Crime</string>
+    <string name="enter_DOI">Imprisonment Years</string>
+    <string name="is_Solved">Solved</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="greater_than"><![CDATA[>]]></string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="add">Add</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="bat_comp">The Batcomputer is one of the most highly advanced computer hardware systems in the entire world.The Batcomputer was extremely advanced and could perform an innumerable amount of functions. Some of these functions include: analyze and match sounds, tracing signal relays, analyze and match evidence and many others</string>
+    <string name="batarang">A batarang is a roughly bat-shaped throwing weapon used by the Gotham City vigilante Batman as a non-lethal ranged attack alternative to firearms, which he rejects outright due to the circumstances of his parents\' murder</string>
+    <string name="utility_belt">Batman included a surgical and first aid kit on his utility belt in case he needed to perform surgery or has been seriously wounded. The kit contained a scalpel, alcohol, forceps, scissors and gauze\'s. A new feature present on the last models of the belt was a communicator button installed in both Batman and Robin\'s belt. It was primarily used as a way to summon Robin to Batman\'s location. One of the utility belt\'s last developments was the remote control for the Batmobile and the Bat-Copter that allowed Batman to summon the vehicle to his current position.</string>
+    <string name="batmobile">The Batmobile is the fictional car driven by the superhero Batman. Housed in the Batcave, which it accesses through a hidden entrance, the Batmobile is both a heavily armored tactical assault vehicle and a personalized custom-built pursuit and capture vehicle that is used by Batman in his fight against crime.[2] Using the latest civilian performance technology, coupled with prototype military-grade hardware—most of which was developed by Wayne Enterprises—Batman creates an imposing hybrid monster car to prowl the streets of Gotham City.</string>
+    <string name="bat_cycle">The Batcycle is the personal motorcycle of Batman. In the comic book universe, Batman\'s personal Batcycle is a modified street-bike with a 786 cc liquid-cooled V-4 engine. It contains a computer-controlled carburetor and bulletproof wind-guard.The Batcycle is most often used by Robin and is sometimes used by Batman when the Batmobile is too cumbersome or is being repaired.</string>
+    <string name="bat_suit">One of Batman\'s most recognizable items among his prized possessions in fighting crimes in Gotham City is his unique costume. It is popularly known simply as the Batsuit. The Batsuit has an electrical system that can shock assailants as a last resort. The Batsuit is made of triple-weave Kevlar centered around the most obvious target, the chest-mounted Bat symbol, which in part is intended to lure gunshots to the armor\'s thickest point. it is most often depicted as consisting of a scalloped cape, a bat-like cowl, a pair of gloves, boots, a yellow utility belt, and a tight-fitting body suit with the image of a bat emblazoned on the chest.</string>
+    <string name="batcape">Batman\'s flowing cape was intended to draw attention and hide his body when moving, making it hard to know where to shoot or strike. The idea is that enemies will shoot or punch at the cape and avoid Batman\'s body. Even Batman\'s cape is carefully chosen for defense.</string>
+    <string name="spear">The Kryptonite Spear was a weapon crafted by Bruce Wayne (while manipulated by Lex Luthor) to take down the superhero Superman.Using the kryptonite he stole from LexCorp, Bruce Wayne forged the spear to kill Superman. He headed to a building near his Bat Signal, sticking it into the ground. When the two of them finally battled later, Batman grabbed the spear, almost impaling him, before being convinced to stop, realizing that they had both been manipulated by Lex Luthor.</string>
+    <string name="grapple_gun">Grapple Guns are hi-tech pistols that fire small grappling hooks on monofilament wire. Once the hook is secure, a button press will activate a powerful motorized pulley system that will allow the user to make a quick ascent to a higher point, such as a rooftop. They can also be used offensively to pull people or objects, sometimes through attachments like the Batclaw.</string>
+    <string name="utilitybelt">Utility Belt</string>
+    <string name="batsuit">Bat-Suit</string>
+    <string name="batrang">Batarang</string>
+    <string name="grapple">Grapple Gun</string>
+    <string name="cape">BatCape</string>
+    <string name="Kspear">Kryptonite Spear</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="clear">Clear</string>
+</resources>
