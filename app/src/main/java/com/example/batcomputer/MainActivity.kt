@@ -10,6 +10,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import com.example.batcomputer.databinding.ActivityMainBinding
+import com.example.batcomputer.dc.DCHeroActivity
 import com.example.batcomputer.gadgets.*
 import java.text.SimpleDateFormat
 import java.util.*
@@ -40,7 +41,11 @@ class MainActivity : AppCompatActivity() {
 
         binding.tvCaseCount.text = getSize()
         binding.tvLastLogin.text = "Last Seen:\n "+(sharedPreferences.getString("date","null"))
-        binding.tvDateTime.text = currentDate
+//        binding.tvDateTime.text = currentDate
+        binding.cvDateTime.setOnClickListener {
+            val intent = Intent(this@MainActivity, DCHeroActivity::class.java)
+            startActivity(intent)
+        }
 
         savePreferences(currentDate)
 
@@ -124,7 +129,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-
         binding.tvCaseCount.text = getSize()
     }
 }

@@ -196,9 +196,9 @@
                 android:layout_gravity="center"
                 android:gravity="center"
                 android:padding="10dp"
-                android:text=""
+                android:text="Allies"
                 android:textColor="@color/white"
-                android:textSize="21sp"
+                android:textSize="26sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
